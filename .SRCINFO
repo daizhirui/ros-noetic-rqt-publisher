@@ -1,7 +1,7 @@
 pkgbase = ros-noetic-rqt-publisher
 	pkgdesc = ROS - rqt_publisher provides a GUI plugin for publishing arbitrary messages with fixed or computed field values.
 	pkgver = 0.4.10
-	pkgrel = 1
+	pkgrel = 2
 	url = https://wiki.ros.org/rqt_publisher
 	arch = any
 	license = BSD
@@ -16,8 +16,7 @@ pkgbase = ros-noetic-rqt-publisher
 	depends = ros-noetic-rqt-gui
 	depends = ros-noetic-roslib
 	depends = python-rospkg
-	source = ros-noetic-rqt-publisher-0.4.10.tar.gz::https://github.com/ros-visualization/rqt_publisher/archive/0.4.10.tar.gz
-	sha256sums = d2e8a127d6ca0cc5929b62bf333195c4717a49112a133bbc2d9040d242ce23c2
+	source = ros-noetic-rqt-publisher-0.4.10.tar.gz::https://github.com/ros-visualization/rqt_publisher/archive/3f32ffe1e56a56a5e0610aa1dc4e5c37a2b2a88b.tar.gz
+	sha256sums = 1c245bec153ced51ed0b6883a547f33d13929cea04900f44a6a1be9fb613df03
 
 pkgname = ros-noetic-rqt-publisher
-
